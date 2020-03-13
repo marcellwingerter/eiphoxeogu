@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ojaegemaek.nuitarie.eu/sitemap.xml
